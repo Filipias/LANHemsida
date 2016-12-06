@@ -1,0 +1,65 @@
+
+body{
+	background-image: url("../Image/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+svg{
+	width:30%;
+	opacity:0.3;
+}
+
+#textLeft{
+	max-width:30%;
+	float:left;
+	background-color:white;
+	opacity:0.6;
+	border-radius:3px;
+	padding:5px;
+	margin-left:20px;
+	margin-top:8%;
+}
+
+#textRight{
+	max-width:30%;
+	float:right;
+	opacity:0.6;
+	border-radius:3px;
+	background-color:white;
+	margin-right:20px;
+	margin-top:8%;
+}
+#form{
+	max-width:30%;
+	float:right;
+	margin-right:20px;
+	margin-top:8%;
+}
+
+#rubrik{
+	position:absolute;
+	color:white;
+	margin-left:42.5%;
+	font-size:40px;
+}
+
+#ICA2{
+	padding-top:30px;
+}
+
+#coop1{
+	width:400px;
+}
+
+#coop2{
+	width:400px;
+	padding-top:30px;
+}
+
+.active{
+	background-color:#FFF;
+}
+
+.icon icon-{
+	color:white;
+}
